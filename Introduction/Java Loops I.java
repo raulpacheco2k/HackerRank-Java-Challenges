@@ -18,7 +18,6 @@ public class Solution {
 
         multiplicationTable(N);
 
-
         bufferedReader.close();
     }
     
